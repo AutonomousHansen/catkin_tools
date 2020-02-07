@@ -6,6 +6,5 @@
   <description>This package contains a unit test that should fail when run.</description>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <test_depend>unittest</test_depend>
 </package>
 

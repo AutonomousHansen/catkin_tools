@@ -6,6 +6,5 @@
   <description>This package contains a python test.</description>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <test_depend>unittest</test_depend>
 </package>
 
